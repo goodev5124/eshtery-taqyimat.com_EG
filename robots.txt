@@ -2,5 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /shukran.html
 
-# Sitemap
 Sitemap: https://eshtery-taqyimat.com/sitemap.xml
